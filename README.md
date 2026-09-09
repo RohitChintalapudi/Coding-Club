@@ -14,7 +14,13 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="24" /> About Me
 
 - **Roll Number:** `AP24110010986`
-- **Email:** [rohit.chintalapudi.work@gmail.com](mailto:rohit.chintalapudi.work@gmail.com) | [rohit_chintalapudi@srmap.edu.in](mailto:rohit_chintalapudi@srmap.edu.in)
+- **Email:**
+  <a href="mailto:rohit.chintalapudi.work@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Personal-3399FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>&nbsp;
+  <a href="mailto:rohit_chintalapudi@srmap.edu.in">
+    <img src="https://img.shields.io/badge/🎓_College-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="College Email" />
+  </a>
 - **Location:** India
 - A motivated developer passionate about building impactful projects, solving real-world problems, and constantly pushing the boundaries of what's possible with code.
 
@@ -23,11 +29,21 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721286.png" width="24" /> Connect with Me
 
 <p align="center">
-  <a href="https://rohit-portfolio-4atw.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/RohitChintalapudi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/chintalapudi_rohit/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/rohit2912" target="_blank"><img src="https://img.shields.io/badge/CodeChef-2C1AA1?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://rohit-portfolio-4atw.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://github.com/RohitChintalapudi" target="_blank">
+    <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/chintalapudi_rohit/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/rohit2912" target="_blank">
+    <img src="https://img.shields.io/badge/🏆_CodeChef-2C1AA1?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 </p>
 
 ---
@@ -121,25 +137,28 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="24" /> Featured
 
-| What | Where |
-| --- | --- |
-| Portfolio | [rohit-portfolio-4atw.onrender.com](https://rohit-portfolio-4atw.onrender.com/) |
-| Coding Practice | [LeetCode](https://leetcode.com/u/chintalapudi_rohit/) |
-| Coding Practice | [CodeChef](https://www.codechef.com/users/rohit2912) |
-| Projects | [GitHub Repos](https://github.com/RohitChintalapudi?tab=repositories) |
+<p align="center">
+  <a href="https://rohit-portfolio-4atw.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-My_Portfolio-6C5CE7?style=for-the-badge" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/chintalapudi_rohit/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡-LeetCode-FFA116?style=for-the-badge" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/rohit2912" target="_blank">
+    <img src="https://img.shields.io/badge/🍜-CodeChef-2C1AA1?style=for-the-badge" alt="CodeChef" />
+  </a>&nbsp;
+  <a href="https://github.com/RohitChintalapudi?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📦-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+</p>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583392.png" width="24" /> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitChintalapudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitChintalapudi&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChintalapudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<details align="center">
+  <summary><b>📊 Weekly Coding Progress</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/-Week_1_Complete-0?style=for-the-badge&color=brightgreen" alt="Week 1" />
+</details>
 
 ---
 
