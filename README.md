@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://github.com/RohitChintalapudi">Rohit Chintalapudi</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/RohitChintalapudi">Rohit Chintalapudi</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+GenAI+Enthusiast;Competitive+Programmer;Lifelong+Learner" alt="Typing SVG" />
